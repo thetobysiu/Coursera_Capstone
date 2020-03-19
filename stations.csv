@@ -1,0 +1,96 @@
+District,Station,Latitude,Longitude
+Central and Western,Hong Kong Station,22.2793278,114.1628131
+Central and Western,Admiralty Station,22.2783805,114.1650126
+Central and Western,Central Station,22.350627,114.1849161
+Central and Western,Kennedy Town Station,22.2813627,114.1278323
+Central and Western,HKU Station,22.2839758,114.1355067
+Central and Western,Sai Ying Pun Station,22.286121,114.1420862
+Central and Western,Sheung Wan Station,22.2858993,114.153707
+Eastern,Tin Hau Station,22.2827094,114.1914917
+Eastern,North Point Station,22.2916575,114.1995447
+Eastern,Quarry Bay Station,22.2877545,114.2149322
+Eastern,Fortress Hill Station,22.2882218,114.1936819
+Eastern,Sai Wan Ho Station,22.28233,114.22245
+Eastern,Shau Kei Wan Station,22.2790972,114.2286665
+Eastern,Heng Fa Chuen Station,22.27785875,114.2402644692785
+Eastern,Chai Wan Station,22.2648186,114.2371073
+Eastern,Tai Koo Station,22.2845316,114.2163521
+Islands,Airport Station,22.3160874,113.93647839996052
+Islands,Tung Chung Station,22.2898911,113.9398742
+Islands,AsiaWorld–Expo Station,22.3212507,113.94297095417554
+Kowloon City,Whampoa Station,22.30506315,114.18947954774603
+Kowloon City,Ho Man Tin Station,22.3090353,114.1816011
+Kowloon City,Kai Tak Station,22.329761,114.2012354
+Kwai Tsing,Kwai Fong Station,22.3564414,114.1280362
+Kwai Tsing,Tsing Yi Station,22.3602059,114.1075872
+Kwai Tsing,Lai King Station,22.3480777,114.1269139
+Kwai Tsing,Kwai Hing Station,22.3629161,114.1314457
+Kwai Tsing/Tsuen Wan,Tai Wo Hau Station,22.3705368,114.1240538
+Kwun Tong,Lam Tin Station,22.3069503,114.233865
+Kwun Tong,Yau Tong Station,22.2975047,114.2383245
+Kwun Tong,Kwun Tong Station,22.3118485,114.2281688
+Kwun Tong,Ngau Tau Kok Station,22.3152385,114.2194984
+Kwun Tong,Kowloon Bay Station,22.3240787,114.2143898
+North,Sheung Shui Station,22.5011948,114.12799943457145
+North,Fanling Station,22.4918493,114.139366
+North,Lo Wu Station,22.5292045,114.1142734
+Sai Kung,Tiu Keng Leng Station,22.3054072,114.2528366
+Sai Kung,Tseung Kwan O Station,22.3084947,114.260505
+Sai Kung,LOHAS Park Station,22.295609,114.2688154
+Sai Kung,Hang Hau Station,22.3155613,114.2646217
+Sai Kung,Po Lam Station,22.32244475,114.25790291854642
+Sha Tin,Sha Tin Wai Station,22.376982050000002,114.19502699652331
+Sha Tin,Fo Tan Station,22.3951495,114.197984
+Sha Tin,Hin Keng Station,22.3638477,114.17085764200104
+Sha Tin,Che Kung Temple Station,22.3747461,114.18618615285978
+Sha Tin,Wu Kai Sha Station,22.4283599,114.2434694
+Sha Tin,City One Station,22.3828101,114.2037459
+Sha Tin,Racecourse Station,22.4004756,114.2028994
+Sha Tin,Tai Wai Station,22.3730222,114.180118
+Sha Tin,Tai Shui Hang Station,22.40849645,114.222719774198
+Sha Tin,Heng On Station,22.4176152,114.22572219865634
+Sha Tin,Ma On Shan Station,22.4232322,114.2318017
+Sha Tin,University Station,22.412649,114.2105406
+Sha Tin,Shek Mun Station,22.38773485,114.20844513835665
+Sha Tin,Sha Tin Station,22.3834092,114.1880234
+Sham Shui Po,Mei Foo Station,22.3364337,114.1414836
+Sham Shui Po,Nam Cheong Station,22.326494099999998,114.15358675341864
+Sham Shui Po,Sham Shui Po Station,22.32819,114.1608545
+Sham Shui Po,Cheung Sha Wan Station,22.33534,114.15779
+Sham Shui Po,Lai Chi Kok Station,22.3372243,114.1483102
+Sham Shui Po,Shek Kip Mei Station,22.3318008,114.1679945
+Sham Shui Po/Kowloon City,Kowloon Tong Station,22.3362923,114.1769539
+Southern,South Horizons Station,22.243901,114.14977128466073
+Southern,Lei Tung Station,22.2419551,114.1560169
+Southern,Ocean Park Station,22.2467508,114.1739557
+Southern,Wong Chuk Hang Station,22.2482575,114.1684249
+Tai Po,Tai Wo Station,22.4510101,114.1607732
+Tai Po,Tai Po Market Station,22.4438174,114.1691284
+Tsuen Wan,Sunny Bay Station,22.3328588,114.028403
+Tsuen Wan,Tsuen Wan West Station,22.3686372,114.1098514
+Tsuen Wan,Disneyland Resort Station,22.31537565,114.0451463186937
+Tsuen Wan,Tsuen Wan Station,22.373674,114.1177569
+Tuen Mun,Siu Hong Station,22.410339,113.9782042
+Tuen Mun,Tuen Mun Station,22.3948797,113.9744817
+Wan Chai,Wan Chai Station,22.2790146,114.1724833
+Wan Chai,Causeway Bay Station,22.280208,114.1848407
+Wong Tai Sin,Lok Fu Station,22.3379829,114.18694657152807
+Wong Tai Sin,Wong Tai Sin Station,22.3418027,114.1921907
+Wong Tai Sin,Diamond Hill Station,22.3394894,114.202883
+Wong Tai Sin/Kwun Tong,Choi Hung Station,22.3340678,114.2100437
+Yau Tsim Mong,Yau Ma Tei Station,22.312364600000002,114.17077887455665
+Yau Tsim Mong,Mong Kok Station,22.3201303,114.1693136
+Yau Tsim Mong,Prince Edward Station,22.32586,114.168128
+Yau Tsim Mong,Olympic Station,22.318603,114.1605111
+Yau Tsim Mong,Austin Station,22.3063637,114.1643979
+Yau Tsim Mong,Jordan Station,22.305011,114.1717398
+Yau Tsim Mong,Tsim Sha Tsui Station,22.298872,114.1741181
+Yau Tsim Mong,Kowloon Station,22.3047556,114.1631848
+Yau Tsim Mong,East Tsim Sha Tsui Station,22.2951663,114.1745888
+Yau Tsim Mong/Kowloon City,Hung Hom Station,22.30479,114.182099
+Yau Tsim Mong/Kowloon City,Mong Kok East Station,22.3226723,114.1722331
+Yuen Long,Kam Sheung Road Station,22.4346476,114.0649561
+Yuen Long,Yuen Long Station,22.44602065,114.034944435907
+Yuen Long,Long Ping Station,22.44767045,114.02544862515404
+Yuen Long,Tin Shui Wai Station,22.4596112,114.0022375
+Yuen Long,Lok Ma Chau Station,22.5155052,114.0666282
